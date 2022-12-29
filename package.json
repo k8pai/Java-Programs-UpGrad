@@ -1,0 +1,19 @@
+{
+  "name": "java-programs-upgrad",
+  "version": "1.0.0",
+  "description": "A Repo consisting of programs from Upgrad Campus on Java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k8pai/Java-Programs-UpGrad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k8pai/Java-Programs-UpGrad/issues"
+  },
+  "homepage": "https://github.com/k8pai/Java-Programs-UpGrad#readme"
+}
